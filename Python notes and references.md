@@ -11,7 +11,7 @@
 - **numpy** - number functions
 - **random** - pseudo random numbers. shuffle.
 - **statistics** - mean, median, mode, stddev, variance
-- **time** - system time
+- **time** - system time. time gives epoch time. ctime converts passsed float to a timestamp.
 
 ### External:
 - **pendulum** - Easy dates and times. Human readable.
