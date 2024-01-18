@@ -1,23 +1,34 @@
 # Python notes and references
 
-## Libraries:
-- numpy - number functions
-- pendulum - Easy dates and times. Human readable.
-- pypdf - manipulates pdf files. watermark. password protect
-- icecream - debugging!
-- loguru - simplified logging. markup tags.
-- rich - rich text parsing and display. markdown.
-- argparse - many functions for dealing with arguments from the command line
-- tqdm - progress bar for any loop
-- xarray - multidimensional data manipulation
-- Polars - Data set computations
-- seaborn - create charts
-- result - alternative to builtin python error handling
-- pydantic - data validation
-- fastapi - web back end api creation
-- sqlmodel - works with fastapi. sql table manipulation
-- httpx - featureful http client
-- python-dotenv - environment variable control
+## Libraries/Modules:
+
+### Built In:
+- **argparse** - many functions for dealing with arguments from the command line
+- **email** - parse, manipulate, generate email
+- **hashlib** - work with hash values
+- **html** - parse html
+- **json** - parse and manipulate json files
+- **numpy** - number functions
+- **random** - pseudo random numbers. shuffle.
+- **statistics** - mean, median, mode, stddev, variance
+- **time** - system time
+
+### External:
+- **pendulum** - Easy dates and times. Human readable.
+- **pypdf** - manipulates pdf files. watermark. password protect
+- **icecream** - debugging!
+- **loguru** - simplified logging. markup tags.
+- **rich** - rich text parsing and display. markdown.
+- **tqdm** - progress bar for any loop
+- **xarray** - multidimensional data manipulation
+- **Polars** - Data set computations
+- **seaborn** - create charts
+- **result** - alternative to builtin python error handling
+- **pydantic** - data validation
+- **fastapi** - web back end api creation
+- **sqlmodel** - works with fastapi. sql table manipulation
+- **httpx** - featureful http client
+- **python-dotenv** - environment variable control
 
 
 ## Videos:
