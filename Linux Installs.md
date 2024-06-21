@@ -17,6 +17,7 @@ This is a list of apps I like to install on most or all linux installations.
 - **thefuck** - mistype correction suggestions
 - **eza** ls replacement
 - **Atuin** - CLI history database
+- **tmux** - Terminal multiplexer
 
 ## Situational
 
