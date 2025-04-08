@@ -19,6 +19,7 @@ This is a list of apps I like to install on most or all linux installations.
 
 ## Situational
 
+- **Pacstall** - AUR for Ubuntu
 - **Java**
 - **nautilus-dropbox**
 - **playonlinux** - I'm not sure if they're still updating this but on a more daily driver this is helpful with gaming on linux
