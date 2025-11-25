@@ -16,6 +16,9 @@ This is a list of apps I like to install on most or all linux installations.
 - **Atuin** - CLI history database
 - **tmux** - Terminal multiplexer
 - **7zip**
+- **Obsidian** - Notes
+- **Remina** - Remote connection manager
+- **Rustdesk** - full screen control etc 
 
 ## Situational
 
@@ -36,3 +39,4 @@ This is a list of apps I like to install on most or all linux installations.
 - **dust** - replace du/df also kinda like windirstat
 - **btop** - looks nicer than htop
 - **restic** - backup solution
+- **spotify** - native Spotify player app
